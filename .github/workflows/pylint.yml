@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TechVision App</title>
+<style>
+  /* Adicione seus estilos aqui */
+  body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+  }
+
+  .app-container {
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  .app-title {
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  .app-content {
+    margin-bottom: 20px;
+  }
+
+  .app-footer {
+    color: #666;
+    font-size: 14px;
+  }
+</style>
+</head>
+<body>
+
+<div class="app-container">
+  <h1 class="app-title">Bem-vindo ao TechVision</h1>
+  <div class="app-content">
+    <p>Descubra as últimas inovações tecnológicas.</p>
+  </div>
+  <div class="app-footer">
+    <p>© 2024 TechVision</p>
+  </div>
+</div>
+
+</body>
+</html>
